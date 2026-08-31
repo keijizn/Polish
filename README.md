@@ -32,4 +32,4 @@ npm run dev:desktop
 
 ## Download
 
-[Baixar o Polish para Windows][(COLE_AQUI_O_LINK_DO_EXE)](https://github.com/keijizn/Polish/releases/download/v0.0.0/Polish.Setup.0.0.0.exe)
+[Baixar o Polish para Windows]https://github.com/keijizn/Polish/releases/download/v0.0.0/Polish.Setup.0.0.0.exe
